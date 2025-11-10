@@ -1,0 +1,20 @@
+# Day 1 - C++ Practice
+
+## 🧩 Topics Covered
+- Introduction to loops in C++
+- Advanced loop structures
+- Hands-on practice with for, while, and nested loops
+
+## 📄 Files
+- `adv_loop.cpp` → C++ source code demonstrating loop logic
+- `adv_loop.exe` → Compiled executable (Windows output)
+
+## 🧠 Learning Notes
+- Learned how loops work internally.
+- Practiced writing nested and conditional loops.
+- Understood the use of counters and conditions inside loops.
+
+## ⚙️ How to Run
+1. Open a terminal or command prompt.
+2. Navigate to this folder.
+3. Compile the file
